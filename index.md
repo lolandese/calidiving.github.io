@@ -29,50 +29,50 @@ Diving SS Thistlegorm requires certification as a trained diver, beyond entry le
 Excerpts from live interviews with actual survivors of
 SS Thistlegorm under attack in 1941:
 
-## Glyn Owen
+### Glyn Owen
 "I heard a plane making what appeared to be a second run or at least sounded like a diving run and my training I suppose came out and I just flung myself out of my hammock on the deck beneath and crouched behind a winch and then there was just two explosions and a mass of flame and my hammock above my head caught fire."
 
-## Ray Gibson
+### Ray Gibson
  "…I was on watch behind the bridge, and next thing there was a big bang and I realised we had been either bombed or torpedoed, one of the two, but we'd been hit by enemy action….."
 
-## Angus McLeay
+### Angus McLeay
  "I made for the side to jump overboard and the rail was almost red-hot under my hand. I don't know why, but, just as I was going to jump, I looked back and saw the gunner crawling along the deck on the other side. The deck was covered with broken glass and I had to take the bits out of my feet before I could carry the gunner through the flames, which came up to my chest in places."
 
-## John Whitham
+### John Whitham
  "I was on watch at twelve o'clock and about one o'clock we heard the sound of aircraft. We looked across to the Carlisle and there was nothing indicating from her and the sound of the aircraft got nearer and the first thing that we realised was that he was planting a few bombs on us, which, unfortunately, dropped in number four hold, possible number five, but number four I do know, because there was some flames shooting out from there and we……we'd quite a good fire going for a while."
 
-## Denis Gray
+### Denis Gray
  "…it seemed like two or three minutes I would think, that this huge explosion took place and of course we were looking in the direction of the Thistlegorm at the time and shortly after the explosion there was a huge sheet of flame which lit up both sides of the Red Sea at that point, we could see it light up the Mount Sinai on one side and Egypt on the other side and all the ships and everything around and then all of a sudden there seemed to be a second explosion and still looking in that d irection we were amazed to see what turned out to be a railway engine and it was red hot with sparks flying from it and it was coming in our direction."
 
-                                                                                                                                                   SS Thistlegorm
+                                                                                                                                          SS Thistlegorm data sheet
 
-Albyn Line: Formed 21st June, 1901
+Albyn Line: Formed 21st June, 1901<br>
 Built: January 1941, Joseph L. Thompson and Sons Ltd, Sunderland
 
-Type: Steamship, single screw
-Gross Tonnage: 4898 tonnes
-Length: 415 feet/126m
+Type: Steamship, single screw<br>
+Gross Tonnage: 4898 tonnes<br>
+Length: 415 feet/126m<br>
 Sale price: £115,000
 
 Launched: 9th April 1940, by Mrs K.W. Black
 
 # Voyages
- 1) USA to bring back steel rails and aircraft parts
-2) Argentina, returning with grain
-3) West Indies for sugar and rum
-4) Final voyage to Suez
+1. USA to bring back steel rails and aircraft parts
+1. Argentina, returning with grain
+1. West Indies for sugar and rum
+1. Final voyage to Suez
 
-Crew: 41
-Bombed: 6th October 1941
+Crew: 41<br>
+Bombed: 6th October 1941<br>
 Casualties: 9
 
-Cousteau's visit: 1955
-Rediscovered: 1974 first known dive to wreck
-Dive site: First publicised in 1992
-Television: First TV documentary in 1995
-'Thistlegorm's Last Voyage' by Caroline Hawkins
-Location: Safe anchorage 'F' in the Straits of Gubal
-Depth: Deepest point at 30m
-Shallowest point at 13m
+Cousteau's visit: 1955<br>
+Rediscovered: 1974 first known dive to wreck<br>
+Dive site: First publicised in 1992<br>
+Television: First TV documentary in 1995<br>
+'Thistlegorm's Last Voyage' by Caroline Hawkins<br>
+Location: Safe anchorage 'F' in the Straits of Gubal<br>
+Depth: Deepest point at 30m<br>
+Shallowest point at 13m<br>
 
 Position: Sha'ab Ali 27 48.800 N / 33 55.250 E
