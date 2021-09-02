@@ -36,4 +36,4 @@ I am privileged to have been the person lucky enough to finally tell the story b
 
 John Kean Author of John Kean’s SS Thistlegorm
 
-<a href="/#top" title="Home"><b><< PREV</b></a> &#124; <a href="/work.html#top" title="Work"><b>NEXT >></b></a>
+<a href="/#top" title="Home"><b><< PREV</b></a> &#124; <a href="/other-wrecks.html#top" title="Other Wrecks"><b>NEXT >></b></a>
