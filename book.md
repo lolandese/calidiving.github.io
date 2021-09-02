@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Book
+title: The Book
 tagline: Supporting tagline
 icon: user
 ---
 {% include JB/setup %}
-
-# The Book
 
 ### January 1995
 In a darkened room in the north of England in 1995 sat freelance TV producer, Caroline Hawkins and retired Royal Navy gunner, Glyn Owen. Caroline was full of nervous anticipation. There was no telling how Glyn would react to revelations about an incident that happened in his life some 54 years previously. Old wounds would be opened. Bad memories long buried deep in the depths of the sub-conscious mind would now slowly surface. However, it wasn’t all bad, as after all, this was a chance to recount good stories too. Some were so spectacular that they were to be transcripted and recorded on film for time immemorial. Life at sea for a Merchant Navy seaman had its moments of excitement and adventure. The sailors were young, impressionable and a long way from home. Some would end their careers having had over six ships sunk beneath them. It wasn’t uncommon to be rescued from a torpedoed vessel only to be sunk again on the way home by more enemy action. There was going to be a great deal of talking today.
