@@ -6,7 +6,6 @@ icon: graduation-cap
 ---
 {% include JB/setup %}
 
-# About the author
 John Kean
 
 John Kean is from Wimbledon but has lived and worked in the Egyptian Red Sea as a professional dive trainer and writer for over fifteen years. He is the published author of the definative SS Thistlegorm book, writer and section editor of Sharm’s leading magazine MIX and a regular feature writer for UK diving magazines. His most recent publication is the hilarious new comedy, 'Lost Wife, Saw Barracuda - True Stories of a Sharm El Sheikh Scuba Diving Instructor' now available in e-book form via Amazon UK: http://www.amazon.co.uk/Lost-Wife-Saw-Barrcuda-Instructor/dp/B004WKUEIM/
