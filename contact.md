@@ -15,6 +15,7 @@ icon: envelope
   <textarea name="message" placeholder="Your message"></textarea>
   <button type="submit">Send</button>
 </form>
-
+<br />
+<br />
 
 
