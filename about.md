@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About John Kean
+title: About the Author
 tagline: Supporting tagline
 icon: graduation-cap
 ---
