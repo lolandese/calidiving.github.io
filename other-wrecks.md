@@ -1,14 +1,12 @@
 ---
 layout: page
-title: My Development Tools
+title: Other Wrecks
 tagline: Supporting tagline
 icon: wrench
 ---
 {% include JB/setup %}
 
-# Other Wrecks
 John Kean wrote an Insider's Red Sea Wreck Guide series on Blue Magazine, partially also published on DIVER, Britains best-selling diving magazine. Covered are the ship's history, the story of their tragic ending and tips for divers planning a visit. We might even continue to add more Red Sea wrecks to the original series.
-
 Upcoming: the Salem Express, the Kingston (Shag Rock), the Jolanda, the Ulysses, the Kimon M, the Giannis D, the ‘Chrisoula K’ (aka the Marcus), the Rosalie Moller and maybe some more...?
 
 ### The Carnatic
