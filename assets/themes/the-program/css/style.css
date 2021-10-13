@@ -1182,10 +1182,6 @@ span.signs {
   .the-header img#selfportrait {
     float: left;
     margin: 0;
-    -moz-transform: scaleX(1);
-    -o-transform: scaleX(1);
-    -webkit-transform: scaleX(1);
-    transform: scaleX(1);
     filter: initial;
     -ms-filter: initial;
     background-color: transparent;
