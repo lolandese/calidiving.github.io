@@ -1182,8 +1182,6 @@ span.signs {
   .the-header img#selfportrait {
     float: left;
     margin: 0;
-    filter: initial;
-    -ms-filter: initial;
     background-color: transparent;
   }
   .body {
