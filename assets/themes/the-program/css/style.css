@@ -1028,10 +1028,6 @@ span.signs {
   .the-header img#selfportrait {
     float: right;
     margin: 10px;
-    -moz-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
     filter: FlipH;
     -ms-filter: "FlipH";
     background-color: #FAFAFA;
@@ -1081,10 +1077,6 @@ span.signs {
   .the-header img#selfportrait {
     float: right;
     margin: 10px;
-    -moz-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
     filter: FlipH;
     -ms-filter: "FlipH";
     background-color: #FAFAFA;
@@ -1110,10 +1102,6 @@ span.signs {
   .the-header img#selfportrait {
     float: right;
     margin: 10px;
-    -moz-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
     background-color: transparent;
   }
   .body {
@@ -1182,6 +1170,8 @@ span.signs {
   .the-header img#selfportrait {
     float: left;
     margin: 0;
+    filter: initial;
+    -ms-filter: initial;
     background-color: transparent;
   }
   .body {
