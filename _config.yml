@@ -8,8 +8,8 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : SS Thistlegorm
-tagline: True Story of the Red Sea's Greatest Wreck
+title : Cali Diving Center
+tagline: 
 author :
   name : lolandese
   email :
@@ -27,7 +27,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://lolandese.github.io
+production_url : https://calidiving.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
