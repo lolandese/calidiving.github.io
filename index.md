@@ -5,8 +5,8 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/markuspuumala/39585537944" title="View photo on Flickr" target="_blank"><img src="https://live.staticflickr.com/4623/39585537944_c427362e20_b.jpg" style="width: 1024px;"></a><br />
-<h5><a href="https://www.flickr.com/photos/markuspuumala/" title="View user on Flickr" target="_blank">Credit</a></h5>
+<a href="https://www.flickr.com/photos/calidiving/16596864386/" title="View photo on Flickr" target="_blank"><img src="https://live.staticflickr.com/8576/16596864386_955708dcf2_b_d.jpg" style="width: 1024px;"></a><br />
+<h5><a href="https://www.flickr.com/photos/calidiving/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
 # Cali Diving Center
 
