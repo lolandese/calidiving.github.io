@@ -10,7 +10,7 @@ icon: envelope
 <h5><a href="https://www.flickr.com/people/cokeclsc/" title="View user on Flickr" target="_blank">Credit</a></h5>
 
 <h2>Email us directly:</h2>
-calidivingcenter@yahoo.com
+<a href= "mailto:calidivingcenter@yahoo.com">calidivingcenter@yahoo.com</a>
 <br />
 <br />
 
